@@ -36,6 +36,8 @@ C:\Users\ex02132\Documents\git\shinecordova\shine\platforms\android\assets\www\i
 C:\Users\ex02132\Documents\git\shinecordova\shine\platforms\android\assets\www\index.html \
 C:\Users\ex02132\Documents\git\shinecordova\shine\platforms\android\assets\www\js \
 C:\Users\ex02132\Documents\git\shinecordova\shine\platforms\android\assets\www\css\index.css \
-C:\Users\ex02132\Documents\git\shinecordova\shine\platforms\android\assets\www\img\logo.png \
+C:\Users\ex02132\Documents\git\shinecordova\shine\platforms\android\assets\www\css\jquery.mobile-1.4.2.min.css \
 C:\Users\ex02132\Documents\git\shinecordova\shine\platforms\android\assets\www\js\index.js \
+C:\Users\ex02132\Documents\git\shinecordova\shine\platforms\android\assets\www\js\jquery-1.11.1.js \
+C:\Users\ex02132\Documents\git\shinecordova\shine\platforms\android\assets\www\js\jquery.mobile-1.4.2.min.js \
 C:\Users\ex02132\Documents\git\shinecordova\shine\platforms\android\ant-build\AndroidManifest.xml \
