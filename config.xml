@@ -8,5 +8,6 @@
         Apache Cordova Team
     </author>
     <content src="index.html" />
-    <access origin="*" />
+    <access origin="*" />    
+	<preference name="fullscreen" value="true" />
 </widget>
